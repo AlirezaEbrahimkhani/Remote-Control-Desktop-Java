@@ -1,6 +1,6 @@
 # Remote-Control-Desctop-Java
 
-Remote Desktop Using Java and Robot Library and Apache Kafka
+Remote Desktop Using Java and Robot Library With Socket Programming
 
 Simple Remote Desktop Using Java Language
 
