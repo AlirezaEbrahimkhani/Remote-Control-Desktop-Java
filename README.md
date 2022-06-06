@@ -1,4 +1,4 @@
-# Remote-Control-Desctop-Java
+# Remote-Control-Desktop-Java
 
 Remote Desktop Using Java and Robot Library With Socket Programming
 
